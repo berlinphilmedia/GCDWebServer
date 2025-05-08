@@ -4,3 +4,4 @@ project.xcworkspace
 /build
 /Carthage/Build
 .build
+.swiftpm
